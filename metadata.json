@@ -1,0 +1,5 @@
+{
+  "name": "Project Finder",
+  "description": "An application for users to find and apply for projects, and for creators to manage applicants, similar to job boards like LinkedIn or Naukri.",
+  "requestFramePermissions": []
+}
